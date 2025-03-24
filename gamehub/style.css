@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #121212; color: white; }
+nav ul { list-style: none; display: flex; gap: 15px; }
+nav ul li a { color: white; text-decoration: none; }
+main { padding: 20px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 10px; border: 1px solid white; text-align: left; }
+
+
